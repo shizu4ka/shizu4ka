@@ -1,6 +1,6 @@
 ## Hi, I am Bulat.
-I am student(simple software engineering)
-
+I am student(simple software engineering)  
+Born in 2007  
 My contacts:  
 Telegram: @Shizu4ka  
 Email: buzlinn@gmail.com
