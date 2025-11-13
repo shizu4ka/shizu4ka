@@ -1,8 +1,8 @@
 ## Hi, I am Bulat 👋
 I am student(simple software engineering)
 
-My contacts:
-Telegtam: @Shizu4ka
+My contacts:  
+Telegtam: @Shizu4ka  
 Email: buzlinn@gmail.com
 
 <!--
