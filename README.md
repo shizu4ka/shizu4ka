@@ -1,4 +1,4 @@
-## Hi, I am Bulat 👋
+## Hi, I am Bulat.
 I am student(simple software engineering)
 
 My contacts:  
