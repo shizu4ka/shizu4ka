@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Bulat 👋
+I am student(simple software engineering)
+
+My contacts:
+Telegtam: @Shizu4ka
+Email: buzlinn@gmail.com
 
 <!--
 **shizu4ka/shizu4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
