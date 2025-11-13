@@ -2,7 +2,7 @@
 I am student(simple software engineering)
 
 My contacts:  
-Telegtam: @Shizu4ka  
+Telegram: @Shizu4ka  
 Email: buzlinn@gmail.com
 
 <!--
